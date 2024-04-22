@@ -37,7 +37,7 @@ function fishBtnClicked() {
       numTropical++;
       numTropicalSpan.innerHTML = numTropical;
     } else {
-      resultImg.src = "img/PufferFish.png";
+      resultImg.src = "img/Pufferfish.png";
       numPuffer++;
       numPufferSpan.innerHTML = numPuffer;
     }
